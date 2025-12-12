@@ -23,7 +23,7 @@ Complete training pipeline for detecting and classifying traffic signs using **Y
 
 ```bash
 # Clone the repository (or download the files)
-git clone <your-repo-url>
+git clone https://github.com/gulrukhsorakhmadjanova/12.12.25.road_signs
 cd traffic-sign-detection
 
 # Create virtual environment
